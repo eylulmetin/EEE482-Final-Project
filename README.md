@@ -1,1 +1,1 @@
-# EEE482-Final-Project FPGA Oscilloscpoe
+# EEE482-Final-Project FPGA Oscilloscope
