@@ -1,1 +1,1 @@
-# EEE482-Final-Project
+# EEE482-Final-Project FPGA Oscilloscpoe
